@@ -1,29 +1,31 @@
 {
   "success": true,
   "result": {
-    "at_begin": {
-      "id": 29,
-      "category_id": null,
-      "subcategory_id": null,
-      "type": "video",
-      "title": "Kidzjoy Premium Channel",
-      "subtitle": "App for All",
-      "url": "https://www.google.com",
-      "description": "<p>Kidzjoy Premium Channel</p>",
-      "file_name": "1645119706_KidzjoyadvAlisha.mp4",
-      "file_path": "/storage/a_files/1645119706_KidzjoyadvAlisha.mp4",
-      "start_date": "2022-02-17",
-      "end_date": "2022-03-31",
-      "price": "50000",
-      "play_type": null,
-      "is_begining": 1,
-      "is_pause": null,
-      "at_particular_time": 20,
-      "skip_ad_option": null,
-      "status": "run",
-      "created_at": "2022-02-17T17:41:46.000000Z",
-      "updated_at": "2022-02-17T17:41:46.000000Z"
-    },
+    "at_begin": [
+      {
+        "id": 29,
+        "category_id": null,
+        "subcategory_id": null,
+        "type": "video",
+        "title": "Kidzjoy Premium Channel",
+        "subtitle": "App for All",
+        "url": "https://www.google.com",
+        "description": "<p>Kidzjoy Premium Channel</p>",
+        "file_name": "1645119706_KidzjoyadvAlisha.mp4",
+        "file_path": "/storage/a_files/1645119706_KidzjoyadvAlisha.mp4",
+        "start_date": "2022-02-17",
+        "end_date": "2022-03-31",
+        "price": "50000",
+        "play_type": null,
+        "is_begining": 1,
+        "is_pause": null,
+        "at_particular_time": 20,
+        "skip_ad_option": null,
+        "status": "run",
+        "created_at": "2022-02-17T17:41:46.000000Z",
+        "updated_at": "2022-02-17T17:41:46.000000Z"
+      }
+    ],
     "at_pause": [
       {
         "id": 29,
@@ -68,11 +70,12 @@
         "is_begining": 1,
         "is_pause": null,
         "at_particular_time": 10,
-        "skip_ad_option": null,
+        "skip_ad_option": true,
         "status": "run",
         "created_at": "2022-02-17T17:41:46.000000Z",
         "updated_at": "2022-02-17T17:41:46.000000Z"
-      },{
+      },
+      {
         "id": 30,
         "category_id": null,
         "subcategory_id": null,
