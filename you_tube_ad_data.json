@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "data": {
+    "adsclicklimit": "1",
+    "isAdVisible": "2",
+    "isAdVisibleLimit":"2",
+    "video_list_url": "here_json url"
+  },
+  "ads_data": {
+    "id": "1",
+    "title": "Get Title",
+    "image_url": "https://cdn.pixabay.com/photo/2021/03/03/09/13/phone-6064855_1280.png",
+    "app_url": "https://play.google.com/store/apps/details?id=org.telegram.messenger"
+  }
+}
